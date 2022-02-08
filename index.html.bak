@@ -67,7 +67,7 @@
 		<label>Saturday <input type="checkbox" name="available_field[]" value="Saturday"></label>
 		</div>
 		<div>
-		<label>Any Comments? <input type="textarea" name="comments_field" rows="4" cols="50"></label>
+		<label>Any Comments? <input type="textarea" name="comments_field"></label>
 		</div>
 	</fieldset>
 	
