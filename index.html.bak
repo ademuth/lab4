@@ -2,13 +2,13 @@
 <html lang="en">
   <head>
 	<meta charset="UTF-8">
-	<title>Title</title>
+	<title>Lab 4 Form</title>
   </head>
   <body>
 	<form method="POST" action="http://bloomingdale.sat.iit.edu/kriedan/lab3formscript.php">
 	<fieldset>
 	<legend>My Info</legend>
-	  <label>First Name: <input type="text" name="text_field" placeholder="first name"></label>
+	  <label>First Name: <input type="text" name="firstName" placeholder="first name"></label>
 	</fieldset>
 	</form>
 	<p></p>
