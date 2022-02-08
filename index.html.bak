@@ -28,7 +28,6 @@
 		  <option value="65 and over">65 and over</option>
 		</select>
 	  </label>
-	  <input type="submit" value="Submit">
 	</fieldset>
 	
 	<fieldset>
@@ -41,8 +40,10 @@
 		<label>Thursday <input type="checkbox" name="available_field[]" value="Thursday"></label>
 		<label>Friday <input type="checkbox" name="available_field[]" value="Friday"></label>
 		<label>Saturday <input type="checkbox" name="available_field[]" value="Saturday"></label>
+		<label>Any Comments? <input type="textarea" name="comments_field" rows="4" cols="50"></label>
 	</fieldset>
 	
+	<input type="submit" value="Submit">
 	</form>
 	<p></p>
   </body>
